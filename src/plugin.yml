@@ -1,7 +1,0 @@
-name: PlommerKits
-version: 0.1
-main: net.plommer.PlommerKits.PlommerKits
-commands:
-    kits:
-        description: Kits commands
-        aliases: [kit]
